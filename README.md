@@ -14,5 +14,9 @@ Matu will match Discord's colors with your devices Material You color scheme! Ma
 - Enable Custom Fonts ✓
 - Android 12 Required ✓
 
+###### Screenshots
+<img src="Screenshot1.png" width="200"/> <img src="Screenshot2.png" width="200"/>
+
+
 
 [**Download**](https://raw.githubusercontent.com/MrSpidercat/Matu/main/matu-dark.json)
