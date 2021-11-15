@@ -1,2 +1,2 @@
 # Matu
-[b]Material You Aliucord Theme[b]
+Material You Aliucord Theme
