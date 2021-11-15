@@ -19,7 +19,9 @@
     "colors": {
         "primary_dark_660": "system_accent2_800",
         "brand_new_230": "system_accent1_300",
-        "brand_new_630": "system_accent2_300"
+        "primary_dark_300": system_neutral2_100,
+        "brand_new_630": "system_accent2_300",
+        "primary_dark_400": system_neutral2_200
     },
     "drawable_tints": {},
     "raws": {}
