@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Karebu#7064",
         "name": "Matu Dark (Material You)",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/Matu\/main\/matu-dark.json",
         "license": " GPL-3.0 License"
     },
@@ -18,7 +18,7 @@
         "accent": "system_accent1_300"
     },
     "colors": {
-        "primary_dark_660": "system_accent2_800",
+        "primary_dark_660": "system_neutral2_800",
         "brand_new_230": "system_accent1_300",
         "primary_dark_300": "system_neutral2_100",
         "brand_new_630": "system_accent2_300",
