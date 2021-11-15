@@ -1,4 +1,12 @@
 # Matu (Material You)
-Discord Theme made for the Aliucord Themer Plugin
+**Aliucord Discord Theme**
+Matu will match your devices Material You color scheme!
 
-Thanks April <3#9304 for helping with the timestamps and chat color
+Aliucord Required ✓
+Themer Plugin Required ✓
+Dark Mode Required ✓
+Enable Custom Fonts ✓
+Android 12 Required ✓
+
+Credits:
+April <3#9304 - Icon Colors, and Timestamp Colors.
