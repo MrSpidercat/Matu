@@ -12,9 +12,6 @@ Matu will match Discord's colors with your devices Material You color scheme! Ma
 - [Themer Plugin](https://github.com/Vendicated/AliucordPlugins/blob/main/Themer/README.md) Required ✓
 - Dark Mode Required ✓
 - Enable Custom Fonts ✓
-- Android 12 Required ✓
-
-###### Screenshots
-![]()
+- Android 12 Required 
 
 [**Download**](https://raw.githubusercontent.com/MrSpidercat/Matu/main/matu-dark.json)
