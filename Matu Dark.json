@@ -1,0 +1,23 @@
+  {
+    "manifest": {
+        "author": "Karebu#7064",
+        "name": "Matu Dark (Material You)",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": "system_neutral1_900",
+        "background_secondary": "system_neutral2_800",
+        "statusbar": "system_neutral2_800",
+        "input_background": "system_accent1_300",
+        "accent": "system_accent1_300"
+    },
+    "colors": {
+        "primary_dark_660": system_accent2_800,
+        "brand_new_230": system_accent1_300,
+        "brand_new_630": system_accent2_300
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
