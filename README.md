@@ -12,4 +12,5 @@ Matu will match your devices Material You color scheme!
 - Android 12 Required ✓
 
 Credits:
+
 April <3#9304 - Icon Colors, and Timestamp Colors.
