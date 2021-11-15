@@ -1,5 +1,6 @@
 # Matu (Material You)
 **Aliucord Discord Theme**
+
 Matu will match your devices Material You color scheme!
 
 - [Aliucord](https://github.com/Aliucord/Aliucord) Required ✓
