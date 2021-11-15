@@ -2,8 +2,8 @@
     "manifest": {
         "author": "Karebu#7064",
         "name": "Matu Dark (Material You)",
-        "version": "1.0.3",
-        "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/Matu\/main\/matu-dark.json",
+        "version": "1.0.4",
+        "updater": "https:\/\/raw.githubusercontent.com\/ComfyDevs\/Matu\/main\/matu-dark.json",
         "license": " GPL-3.0 License"
     },
     "background": {},
