@@ -1,4 +1,4 @@
-{
+  {
     "manifest": {
         "author": "Karebu#7064",
         "name": "Matu Dark (Material You)",
@@ -29,7 +29,8 @@
         "ic_flex_input_create_thread_24dp_dark": -2490290,
         "ic_sidebar_notifications_off_dark_24dp": system_accent1_300,
         "ic_sidebar_notifications_on_dark_24dp": system_neutral2_100,
-        "ic_thread": system_neutral2_100
+        "ic_thread": system_neutral2_100,
+        "ic_channel_text": system_neutral2_600
     },
     "raws": {}
 }
