@@ -14,7 +14,7 @@
         "background": "system_neutral1_900",
         "background_secondary": "system_neutral2_800",
         "statusbar": "system_neutral2_800",
-        "input_background": "system_accent1_300",
+        "input_background": "system_neutral2_800",
         "accent": "system_accent1_300"
     },
     "colors": {
