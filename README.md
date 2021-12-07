@@ -1,13 +1,9 @@
-# Matu (Material You)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# Matu | Material You
+![Discord](https://img.shields.io/discord/811255666990907402?label=Aliucord%20Support&logo=discord&logoColor=white&style=flat-square) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 
-**Material You Discord Mobile Theme**
-
-
-Matu will match Discord's colors with your devices Material You color scheme! 
-
-It also comes with the Google Product Sans font, if you don't want to use this font you can change it or disable font hooking.
-
+#### Description
+Matu is a Material You theme for [Aliucord](https://github.com/Aliucord/Aliucord) this theme matches your devices Material You color scheme. 
+This theme comes with the Google Sans font more suited for Google Pixel devices, if you'd like to disable this font simply disable font hooking.
 
 ###### Requirements
 - [Aliucord](https://github.com/Aliucord/Aliucord) Required ✓
@@ -20,6 +16,9 @@ It also comes with the Google Product Sans font, if you don't want to use this f
 - [NitroSpoof](https://discord.com/channels/811255666990907402/811275162715553823/845348833142505544) - [Source](https://github.com/X1nto/AliucordPlugins#nitrospoof)
 - [BetterChatbox](https://discord.com/channels/811255666990907402/845784407846813696/910302649348395110) - [Source](https://github.com/X1nto/AliucordPlugins#layoutcontroller)
 - [LayoutController](https://discord.com/channels/811255666990907402/811275162715553823/845348833142505544) - [Source](https://github.com/wingio/plugins/#betterchatbox)
+
+###### Recommended Fonts
+- [Google Sans Modified](https://raw.githubusercontent.com/Ushie/main/main/Productsansbutbetter.ttf) [Created by [Ushie](https://github.com/Ushie)]
 
 ###### Screenshots
 <img src="Img1.png" width="150"/> <img src="Img2.png" width="150"/>
