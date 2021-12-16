@@ -1,14 +1,14 @@
-   {
+{
     "manifest": {
         "author": "Karebu#7064",
-        "name": "Matu Dark (Material You)",
-        "version": "1.0.7",
+        "name": "Matu Dark [Material You]",
+        "version": "1.0.8",
         "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/Matu\/main\/matu-dark.json",
         "license": "GPL-3.0 License"
     },
     "background": {},
     "fonts": {
-        "*": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/Matu\/main\/Fonts\/ProductSans-Regular.ttf"
+        "*": "https:\/\/raw.githubusercontent.com\/Ushie\/main\/main\/Productsansbutbetter.ttf"
     },
     "simple_colors": {
         "background": "system_neutral1_900",
@@ -23,15 +23,16 @@
         "primary_dark_300": "system_neutral2_100",
         "brand_new_630": "system_accent2_300",
         "primary_dark_400": "system_neutral2_200",
-        "uikit_settings_item_text_color_light": system_neutral2_700
+        "primary_dark_360": "system_neutral1_200",
+        "uikit_settings_item_text_color_light": "system_neutral2_700"
     },
     "drawable_tints": {
-        "ic_sidebar_pins_off_dark_24dp": system_neutral2_100,
+        "ic_sidebar_pins_off_dark_24dp": "system_neutral2_100",
         "ic_flex_input_create_thread_24dp_dark": -2490290,
-        "ic_sidebar_notifications_off_dark_24dp": system_accent1_300,
-        "ic_sidebar_notifications_on_dark_24dp": system_neutral2_100,
-        "ic_thread": system_neutral2_100,
-        "ic_channel_text": system_neutral2_600
+        "ic_sidebar_notifications_off_dark_24dp": "system_accent1_300",
+        "ic_sidebar_notifications_on_dark_24dp": "system_neutral2_100",
+        "ic_thread": "system_neutral2_100",
+        "ic_channel_text": "system_neutral2_600"
     },
     "raws": {}
 }
