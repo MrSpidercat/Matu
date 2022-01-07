@@ -17,7 +17,7 @@ This theme comes with the Google Sans font more suited for Google Pixel devices,
 - [BetterChatbox](https://discord.com/channels/811255666990907402/845784407846813696/910302649348395110) - [Source](https://github.com/X1nto/AliucordPlugins#layoutcontroller)
 - [LayoutController](https://discord.com/channels/811255666990907402/811275162715553823/845348833142505544) - [Source](https://github.com/wingio/plugins/#betterchatbox)
 
-###### Recommended Fonts
+###### Font Used
 - [Google Sans Modified](https://raw.githubusercontent.com/Ushie/main/main/Productsansbutbetter.ttf) [Created by [Ushie](https://github.com/Ushie)]
 
 ###### Screenshots
