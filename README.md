@@ -5,18 +5,6 @@
 Matu is a Material You theme for [Aliucord](https://github.com/Aliucord/Aliucord) this theme matches your devices Material You color scheme. 
 This theme comes with the Google Sans font more suited for Google Pixel devices, if you'd like to disable this font simply disable font hooking.
 
-###### Requirements
-- [Aliucord](https://github.com/Aliucord/Aliucord) Required ✓
-- [Themer Plugin](https://github.com/Vendicated/AliucordPlugins/blob/main/Themer/README.md) Required ✓
-- Dark Mode Required ✓
-- Enable Custom Fonts ✓
-- Android 12 Required ✓
-
-###### Recommended Plugins
-- [NitroSpoof](https://discord.com/channels/811255666990907402/811275162715553823/845348833142505544) - [Source](https://github.com/X1nto/AliucordPlugins#nitrospoof)
-- [BetterChatbox](https://discord.com/channels/811255666990907402/845784407846813696/910302649348395110) - [Source](https://github.com/X1nto/AliucordPlugins#layoutcontroller)
-- [LayoutController](https://discord.com/channels/811255666990907402/811275162715553823/845348833142505544) - [Source](https://github.com/wingio/plugins/#betterchatbox)
-
 ###### Font Used
 - [Google Sans Modified](https://raw.githubusercontent.com/Ushie/main/main/Productsansbutbetter.ttf) [Created by [Ushie](https://github.com/Ushie)]
 
