@@ -1,5 +1,5 @@
 # Matu | Material You
-![Discord](https://img.shields.io/discord/811255666990907402?label=Aliucord%20Support&logo=discord&logoColor=white&style=flat-square) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 
 #### Description
 Matu is a Material You theme for [Aliucord](https://github.com/Aliucord/Aliucord) this theme matches your devices Material You color scheme. 
