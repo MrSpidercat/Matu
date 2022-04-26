@@ -6,7 +6,7 @@ Matu is a Material You theme for [Aliucord](https://github.com/Aliucord/Aliucord
 This theme comes with the Google Sans font more suited for Google Pixel devices, if you'd like to disable this font simply disable font hooking.
 
 ###### Font Used
-- [Google Sans Modified](https://raw.githubusercontent.com/Ushie/main/main/Productsansbutbetter.ttf) [Created by [Ushie](https://github.com/Ushie)]
+- [Google Sans Modified](https://raw.githubusercontent.com/Ushie/main/main/Productsansbutbetter.ttf) [Modified by [Ushie](https://github.com/Ushie)]
 
 ###### Screenshots
 <img src="Img1.png" width="150"/> <img src="Img2.png" width="150"/>
