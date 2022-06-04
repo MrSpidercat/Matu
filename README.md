@@ -10,7 +10,5 @@ This theme comes with the Google Sans font more suited for Google Pixel devices,
 
 ###### Screenshots
 <img src="Img1.png" width="150"/> <img src="Img2.png" width="150"/>
-###### Personal Setup
-<img src="Img3.png" width="150"/>
 
 [**Download**](https://github.com/MrSpidercat/Matu/releases/download/Release/matu-dark.json)
